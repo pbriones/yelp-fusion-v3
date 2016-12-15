@@ -1,0 +1,23 @@
+{
+  "name": "yelp-fusion-v3",
+  "version": "0.0.1",
+  "description": "yelp fusion api connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.io/pbriones/yelp-api-v3"
+  },
+  "keywords": [
+    "yelp",
+    "fusion"
+  ],
+  "author": "Phil Briones",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
