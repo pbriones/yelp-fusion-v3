@@ -1,6 +1,6 @@
 {
   "name": "yelp-fusion-v3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "yelp fusion api connector",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.io/pbriones/yelp-api-v3"
+    "url": "https://github.com/pbriones/yelp-fusion-v3.git"
   },
   "keywords": [
     "yelp",
@@ -19,5 +19,6 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
-  }
+  },
+  "dependencies": {}
 }
