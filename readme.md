@@ -1,5 +1,7 @@
 #yelp-fusion-v3
 
+Promise-based yelp fusion package
+
 Installation
 ----------
 ```
