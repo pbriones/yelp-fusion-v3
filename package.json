@@ -1,6 +1,6 @@
 {
   "name": "yelp-fusion-v3",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "yelp fusion api connector",
   "main": "index.js",
   "scripts": {

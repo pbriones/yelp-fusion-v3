@@ -10,12 +10,14 @@ Usage
 ----------
 
 query parameter requires minimum required input by [Yelp Fusion](https://www.yelp.com/developers/documentation/v3)
+
 Comment above function mentions extra requirements
-Response is unmodified yelp response.
+
+Response is unmodified yelp response
 
 ```
 const Yelp = require('yelp-fusion-v3');
-const yelp = new Yelp({
+let yelp = new Yelp({
   client_id: <client_id>,
   client_secret: <client_secret>
 });
